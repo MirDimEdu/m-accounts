@@ -1,0 +1,15 @@
+aiofile
+aiopg
+asyncpg
+bcrypt
+databases[postgresql]
+fastapi
+httpx
+passlib[bcrypt]
+psycopg2
+python-jose[cryptography]
+python-multipart
+pyyaml
+requests
+SQLAlchemy<14.0
+uvicorn
